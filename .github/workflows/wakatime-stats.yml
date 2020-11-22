@@ -7,9 +7,9 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
       - uses: LimRaymond/LimRaymond@master
