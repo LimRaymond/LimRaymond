@@ -31,6 +31,13 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
+---
+
 <img align="left" alt="raysoju github stats" src="https://github-readme-stats.vercel.app/api?username=LimRaymond&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 [twitter]: https://twitter.com/raylimho
