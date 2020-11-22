@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: LimRaymond/LimRaymond@master
+      - uses: LimRaymond/LimRaymond
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
