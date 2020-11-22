@@ -31,12 +31,6 @@
 
 ---
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=LimRaymond&hide_title=true&hide_border=true&langs_count=5)
-
-<br>
-
----
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
