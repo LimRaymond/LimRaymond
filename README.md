@@ -33,7 +33,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       43 mins         ██████████████░░░░░░░░░░░   55.88 % 
+Markdown   34 mins         ███████████░░░░░░░░░░░░░░   44.12 % 
 ```
 <!--END_SECTION:waka-->
 
