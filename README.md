@@ -33,8 +33,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       59 mins         ███████████████▓░░░░░░░░░   63.29 % 
-JavaScript   32 mins         ████████▓░░░░░░░░░░░░░░░░   34.76 % 
+JavaScript   2 hrs 35 mins   ██████████████████░░░░░░░   71.63 % 
+Python       59 mins         ███████░░░░░░░░░░░░░░░░░░   27.53 % 
 ```
 <!--END_SECTION:waka-->
 
