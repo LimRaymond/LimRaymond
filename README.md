@@ -2,10 +2,8 @@
 
 ## I'm a Developer !
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Python and everything related to A.Is
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sing
 
 ### Connect with me:
 
