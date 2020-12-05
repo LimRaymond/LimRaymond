@@ -3,7 +3,9 @@
 ## I'm a Developer !
 
 - 🌱 I’m currently learning Python and everything related to A.Is
+- 📝I mainly use Javascript, and I am curently interested in Python.
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 💬 Ask me about anything [here][githubIssue]
 
 ### Connect with me:
 
@@ -43,3 +45,4 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 [twitter]: https://twitter.com/raylimho
 [linkedin]: https://www.linkedin.com/in/raymond-lim-626b7b136/
+[githubIssue]: https://github.com/LimRaymond/LimRaymond/issues
