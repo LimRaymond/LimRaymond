@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML     6 mins          ████████████████████████░   96.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
