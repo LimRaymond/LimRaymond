@@ -3,7 +3,7 @@
 ## I'm a Developer !
 
 - 🌱 I’m currently learning Python and everything related to A.Is
-- 📝I mainly use Javascript, and I am curently interested in Python.
+- 📝I mainly use Javascript, and I am currently interested in Python.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here][githubIssue]
 
